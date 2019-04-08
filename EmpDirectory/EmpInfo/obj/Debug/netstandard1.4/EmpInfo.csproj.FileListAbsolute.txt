@@ -1,0 +1,8 @@
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\bin\Debug\netstandard1.4\EmpInfo.deps.json
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\bin\Debug\netstandard1.4\EmpInfo.dll
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\bin\Debug\netstandard1.4\EmpInfo.pdb
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.csprojAssemblyReference.cache
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.csproj.CoreCompileInputs.cache
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.AssemblyInfo.cs
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.dll
+C:\Users\azuretraining\source\repos\EmpDirectory\EmpInfo\obj\Debug\netstandard1.4\EmpInfo.pdb
